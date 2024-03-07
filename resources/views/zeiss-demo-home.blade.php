@@ -239,7 +239,7 @@
                 </div>
                 <div class="grid bg-white p-4 mt-1 rounded-lg">
                     <div class="font-[900] text-3xl mb-4">ZEISS 正負面聲量數據 (12/05 - 03/04)</div>
-                    <canvas class="p-3 max-h-[230px]" id="chartLine"></canvas>
+                    <canvas class="p-3 max-h-[155px]" id="chartLine"></canvas>
                     <div class="font-bold text-2xl mb-4">負面文章排名</div>
                     <div class="flex p-2 font-semibold border-b">
                         <div class="flex-1 grow-1">排名</div>
