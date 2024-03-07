@@ -32,7 +32,7 @@
 <div class="flex-1 flex flex-col overflow-hidden">
     <!-- Header with Marquee -->
     <div class="bg-white h-16 flex items-center">
-        <span class="ml-3">最新更新時間為2023/11/18，00:00（UTC+8），此數據期間範圍為近二週。</span>
+        <span class="ml-3">最新更新時間為2024/03/04，00:00（UTC+8），此數據期間範圍為近三個月。</span>
         <span class="ml-auto mr-3" id="current-time"></span>
     </div>
 
@@ -43,60 +43,72 @@
                 <div class="col-span-1 mr-4">
                     <div class="flex bg-white p-5 rounded-lg">
                         <div class="items-left">
-                            <h1 class="font-bold text-4xl">Smile Pro</h1>
+                            <h1 class="font-bold text-4xl">白內障</h1>
                             <h4 class="font-bold">關鍵字聲量總數</h4>
                         </div>
                         <div class="items-right text-6xl ml-auto font-bold">
-                            2,099.8
+                            12,357
                         </div>
                     </div>
                     <div class="grid bg-white p-5 mt-2 rounded-lg">
                         <div class="flex p-2 font-semibold border-b">
-                            <div class="flex-2 w-3/5">熱門關鍵字文章標題</div>
-                            <div class="w-1/5 text-center">互動數</div>
-                            <div class="w-1/5 text-center">日期</div>
+                            <div class="flex-2 w-3/5">白內障關鍵字熱門度</div>
+                            <div class="w-1/5 text-center">總文章數</div>
+                            <div class="w-1/5 text-center">聲量</div>
                         </div>
 
                         <div class="flex p-1 items-center border-b">
-                            <div class="flex w-3/5 pl-1 items-center"><img src="{{ asset('images/ptt-logo.png') }}"
-                                                                           class="mr-2">[難過] 近視雷射手術後…(文長)
+                            <div class="flex w-3/5 pl-1 items-center">人工水晶體
                             </div>
-                            <div class="w-1/5 text-center">1,453</div>
-                            <div class="w-1/5 text-center">01/05</div>
+                            <div class="w-1/5 text-center">246</div>
+                            <div class="w-1/5 text-center">532</div>
                         </div>
                         <div class="flex p-1 items-center border-b">
-                            <div class="flex w-3/5 pl-1 items-center"><img src="{{ asset('images/ptt-logo.png') }}"
-                                                                           class="mr-2"> [問卦] 做眼睛雷射手術，要注意什麼？
+                            <div class="flex w-3/5 pl-1 items-center">人工水晶體 非球面
                             </div>
-                            <div class="w-1/5 text-center">332</div>
-                            <div class="w-1/5 text-center">12/29</div>
+                            <div class="w-1/5 text-center">30</div>
+                            <div class="w-1/5 text-center">41</div>
                         </div>
                         <div class="flex p-1 items-center border-b">
-                            <div class="flex w-3/5 pl-1 items-center"><img src="{{ asset('images/ptt-logo.png') }}"
-                                                                           class="mr-2"> Re: [難過] 近視雷射手術後…(文長)
+                            <div class="flex w-3/5 pl-1 items-center">人工水晶體 單焦點
                             </div>
-                            <div class="w-1/5 text-center">166</div>
-                            <div class="w-1/5 text-center">01/06</div>
+                            <div class="w-1/5 text-center">19</div>
+                            <div class="w-1/5 text-center">23</div>
                         </div>
                         <div class="flex p-1 items-center border-b">
-                            <div class="flex w-3/5 pl-1 items-center"><img src="{{ asset('images/dcard-logo.png') }}"
-                                                                           class="mr-2"> #分享 終於從眼鏡族畢業！
+                            <div class="flex w-3/5 pl-1 items-center">蔡司 人工水晶體
                             </div>
-                            <div class="w-1/5 text-center">56</div>
-                            <div class="w-1/5 text-center">12/13</div>
+                            <div class="w-1/5 text-center">11</div>
+                            <div class="w-1/5 text-center">11</div>
                         </div>
                         <div class="flex p-1 items-center border-b">
-                            <div class="flex w-3/5 pl-1 items-center"><img src="{{ asset('images/ptt-logo.png') }}"
-                                                                           class="mr-2"> Re: [問卦] 雷射手術很發達
-                                怎還有人戴眼鏡？
+                            <div class="flex w-3/5 pl-1 items-center">博士倫 人工水晶體
                             </div>
-                            <div class="w-1/5 text-center">50</div>
-                            <div class="w-1/5 text-center">02/17</div>
+                            <div class="w-1/5 text-center">0</div>
+                            <div class="w-1/5 text-center">0</div>
+                        </div>
+                        <div class="flex p-1 items-center border-b">
+                            <div class="flex w-3/5 pl-1 items-center">白內障 散光
+                            </div>
+                            <div class="w-1/5 text-center">175</div>
+                            <div class="w-1/5 text-center">393</div>
+                        </div>
+                        <div class="flex p-1 items-center border-b">
+                            <div class="flex w-3/5 pl-1 items-center">白內障 手術
+                            </div>
+                            <div class="w-1/5 text-center">899</div>
+                            <div class="w-1/5 text-center">2,345</div>
+                        </div>
+                        <div class="flex p-1 items-center border-b">
+                            <div class="flex w-3/5 pl-1 items-center">白內障 老花
+                            </div>
+                            <div class="w-1/5 text-center">339</div>
+                            <div class="w-1/5 text-center">954</div>
                         </div>
                     </div>
 
                     <div class="grid bg-white p-5 mt-2 rounded-lg">
-                        <div class="font-[800]">Smile Pro 聲量數據 (2023/12/05 - 2024/03/04)</div>
+                        <div class="font-[800]">白內障聲量數據 (2023/12/05 - 2024/03/04)</div>
                         <div class="w-full bg-white rounded-lg dark:bg-gray-800">
                             <div id="area-chart"></div>
                         </div>
@@ -105,54 +117,60 @@
                 <div class="col-span-1 mr-4">
                     <div class="flex bg-white p-5 rounded-lg">
                         <div class="items-left">
-                            <h1 class="font-bold text-4xl">ZEISS</h1>
-                            <h4 class="font-bold">即時行銷熱度總數</h4>
+                            <h1 class="font-bold text-4xl">近視/老花雷射</h1>
+                            <h4 class="font-bold">關鍵字熱度總數</h4>
                         </div>
                         <div class="items-right text-6xl ml-auto font-bold">
-                            3998.3
+                            12,594
                         </div>
                     </div>
                     <div class="grid bg-white p-5 mt-2 rounded-lg">
                         <div class="flex p-2 font-semibold border-b">
                             <div class="flex-2 w-3/5">熱門新聞標題</div>
                             <div class="w-1/5 text-center">影響力</div>
-                            <div class="w-1/5 text-center">日期</div>
+                            <div class="w-1/5 text-center">媒體名稱</div>
                         </div>
 
                         <div class="flex p-1 items-center border-b">
-                            <div class="flex w-3/5 pl-1 items-center">醫思眼科舉行SMILE微笑矯視講座
+                            <div class="flex w-3/5 pl-1 items-center">眼鏡掰掰 近視雷射手術停看聽
                             </div>
-                            <div class="w-1/5 text-center">8.70</div>
-                            <div class="w-1/5 text-center">02/26</div>
+                            <div class="w-1/5 text-center">13.54</div>
+                            <div class="w-1/5 text-center">自由健康網</div>
                         </div>
                         <div class="flex p-1 items-center border-b">
-                            <div class="flex w-3/5 pl-1 items-center">Apple Vision Pro入手！3C達人開箱心
+                            <div class="flex w-3/5 pl-1 items-center">出國前做「近視雷射」來得及嗎？眼科醫解答
                             </div>
-                            <div class="w-1/5 text-center">8.70</div>
-                            <div class="w-1/5 text-center">02/13</div>
-                        </div>
-                        <div class="flex p-1 items-center border-b">
-                            <div class="flex w-3/5 pl-1 items-center">蔡司優視力旗艦店插旗新竹 攜手光明分子眼鏡打造全臺唯一蔡司博物
+                            <div class="w-1/5 text-center">11.80</div>
+                            <div class="w-1/5 text-center">
+                                民視新聞
                             </div>
-                            <div class="w-1/5 text-center">8.70</div>
-                            <div class="w-1/5 text-center">01-06</div>
-                        </div>
-                        <div class="flex p-1 items-center border-b">
-                            <div class="flex w-3/5 pl-1 items-center">【廣編】亞洲最大！蔡司優視力旗艦店「插旗新竹」打造全臺唯一蔡
-                            </div>
-                            <div class="w-1/5 text-center">8.55</div>
-                            <div class="w-1/5 text-center">02/05</div>
                         </div>
                         <div class="flex p-1 items-center border-b">
                             <div class="flex w-3/5 pl-1 items-center">
-                                使用3C時間長、老年化社會...這檔「眼科醫療概念股」值得
+                                中職／陳傑憲新「視」界備戰球季 眼科全飛秒助攻
                             </div>
-                            <div class="w-1/5 text-center">7.67</div>
-                            <div class="w-1/5 text-center">02-17</div>
+                            <div class="w-1/5 text-center">11.64</div>
+                            <div class="w-1/5 text-center">
+                                Yahoo奇摩運動
+                            </div>
+                        </div>
+                        <div class="flex p-1 items-center border-b">
+                            <div class="flex w-3/5 pl-1 items-center">馳騁球場不用再一直眨眼 「四爺」陳傑憲做近視
+                            </div>
+                            <div class="w-1/5 text-center">11.54</div>
+                            <div class="w-1/5 text-center">自由健康網</div>
+                        </div>
+                        <div class="flex p-1 items-center border-b">
+                            <div class="flex w-3/5 pl-1 items-center">
+                                眼鏡掰掰 近視雷射手術停看聽
+                            </div>
+                            <div class="w-1/5 text-center">11.44
+                            </div>
+                            <div class="w-1/5 text-center">自由時報電子報</div>
                         </div>
                     </div>
                     <div class="grid bg-white p-5 mt-2 rounded-lg">
-                        <div class="font-[800]">ZEISS 行銷熱度數據 (2023/12/05 - 2024/03/04)</div>
+                        <div class="font-[800]">近視/老花雷射熱度數據 (2023/12/05 - 2024/03/04)</div>
                         <div class="w-full bg-white rounded-lg dark:bg-gray-800">
                             <div id="area-chart1"></div>
                         </div>
@@ -199,6 +217,20 @@
                     </div>
                     <div class="flex p-1 items-center border-b">
                         <div class="flex-1 text-left">　5</div>
+                        <div class="flex-1 text-left">濰視眼科</div>
+                        <div class="flex-1 text-center">89</div>
+                        <div class="flex-1 text-center">336</div>
+                        <div class="flex-1 text-center">16.9%</div>
+                    </div>
+                    <div class="flex p-1 items-center border-b">
+                        <div class="flex-1 text-left">　6</div>
+                        <div class="flex-1 text-left">白佳欣眼科</div>
+                        <div class="flex-1 text-center">33</div>
+                        <div class="flex-1 text-center">80</div>
+                        <div class="flex-1 text-center">21.2%</div>
+                    </div>
+                    <div class="flex p-1 items-center border-b">
+                        <div class="flex-1 text-left">　7</div>
                         <div class="flex-1 text-left">台全眼科</div>
                         <div class="flex-1 text-center">12</div>
                         <div class="flex-1 text-center">43</div>
