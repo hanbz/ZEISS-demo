@@ -30,10 +30,10 @@
                     </svg>
                     <span class="sr-only">Toggle sidebar</span>
                 </button>
-                <a href="https://flowbite.com" class="flex items-center justify-between mr-4">
+                <a href="{{ url('') }}" class="flex items-center justify-between mr-4">
                     <img
                         src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Zeiss_logo.svg/567px-Zeiss_logo.svg.png"
-                        class="mr-3 h-8" alt="Flowbite Logo"/>
+                        class="mr-3 h-8" alt="ZEISS 戰情系統"/>
                     <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">ZEISS
                             戰情系統</span>
                 </a>
