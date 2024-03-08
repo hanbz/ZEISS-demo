@@ -5,7 +5,7 @@
         <div class="border-2 border-dashed border-gray-300 rounded-lg dark:border-gray-600 h-32 md:h-64">
             <div class="relative overflow-x-auto overflow-y-auto max-h-64 shadow-md sm:rounded-lg">
                 <div class="inline-flex p-2">
-                    <div class="text-lg font-semibold text-gray-900 bg-white">白內障關鍵字聲量總數：89885</div>
+                    <div class="text-lg font-semibold text-gray-900 bg-white">白內障關鍵字聲量總數：14,744</div>
                     <button id="dropdownDefaultButton1" data-dropdown-toggle="dropdown-keyword1"
                             class="ml-6 text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-small rounded-lg text-sm px-3 py-1 text-center inline-flex items-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
                             type="button">Facebook
@@ -43,13 +43,13 @@
                     <thead class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
                     <tr>
                         <th scope="col" class="px-6 py-3">
-                            關鍵字
+                            貼文
                         </th>
                         <th scope="col" class="px-6 py-3">
-                            總文章數
+                            發文者
                         </th>
                         <th scope="col" class="px-6 py-3">
-                            總聲量
+                            聲量
                         </th>
                     </tr>
                     </thead>
@@ -57,253 +57,61 @@
                     <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
                         <th scope="row"
                             class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            白內障
+                            菸一支一支的點 酒一杯..
                         </th>
                         <td class="px-6 py-4">
-                            110
+                            高敏..
                         </td>
                         <td class="px-6 py-4">
-                            1209
+                            473
                         </td>
                     </tr>
                     <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
                         <th scope="row"
                             class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            人工水晶體
+                            聽成白內障到底想怎樣..
                         </th>
                         <td class="px-6 py-4">
-                            234
+                            CaVa
                         </td>
                         <td class="px-6 py-4">
-                            4563
+                            386
                         </td>
                     </tr>
                     <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
                         <th scope="row"
                             class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            蔡司+人工水晶體
+                            〔 別讓眼睛老太快 1..
                         </th>
                         <td class="px-6 py-4">
-                            345
+                            胡乃..
                         </td>
                         <td class="px-6 py-4">
-                            4567
+                            266
                         </td>
                     </tr>
                     <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
                         <th scope="row"
                             class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            德國人工水晶體
+                            你們知道有種手術..
                         </th>
                         <td class="px-6 py-4">
-                            345
+                            梨寶..
                         </td>
                         <td class="px-6 py-4">
-                            4567
+                            242
                         </td>
                     </tr>
                     <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
                         <th scope="row"
                             class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            白內障+手術
+                            台灣研究發現，讓兒..
                         </th>
                         <td class="px-6 py-4">
-                            345
+                            一分..
                         </td>
                         <td class="px-6 py-4">
-                            4567
-                        </td>
-                    </tr>
-                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                        <th scope="row"
-                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            白內障+飛秒雷射
-                        </th>
-                        <td class="px-6 py-4">
-                            345
-                        </td>
-                        <td class="px-6 py-4">
-                            4567
-                        </td>
-                    </tr>
-                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                        <th scope="row"
-                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            白內障+散光
-                        </th>
-                        <td class="px-6 py-4">
-                            345
-                        </td>
-                        <td class="px-6 py-4">
-                            4567
-                        </td>
-                    </tr>
-                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                        <th scope="row"
-                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            白內障+老花
-                        </th>
-                        <td class="px-6 py-4">
-                            345
-                        </td>
-                        <td class="px-6 py-4">
-                            4567
-                        </td>
-                    </tr>
-                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                        <th scope="row"
-                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            人工水晶體+三焦點
-                        </th>
-                        <td class="px-6 py-4">
-                            345
-                        </td>
-                        <td class="px-6 py-4">
-                            4567
-                        </td>
-                    </tr>
-                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                        <th scope="row"
-                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            人工水晶體+長焦段
-                        </th>
-                        <td class="px-6 py-4">
-                            345
-                        </td>
-                        <td class="px-6 py-4">
-                            4567
-                        </td>
-                    </tr>
-                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                        <th scope="row"
-                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            人工水晶體+延焦段
-                        </th>
-                        <td class="px-6 py-4">
-                            345
-                        </td>
-                        <td class="px-6 py-4">
-                            4567
-                        </td>
-                    </tr>
-                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                        <th scope="row"
-                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            人工水晶體+多焦段
-                        </th>
-                        <td class="px-6 py-4">
-                            345
-                        </td>
-                        <td class="px-6 py-4">
-                            4567
-                        </td>
-                    </tr>
-                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                        <th scope="row"
-                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            人工水晶體+非球面
-                        </th>
-                        <td class="px-6 py-4">
-                            345
-                        </td>
-                        <td class="px-6 py-4">
-                            4567
-                        </td>
-                    </tr>
-                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                        <th scope="row"
-                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            人工水晶體+單焦點
-                        </th>
-                        <td class="px-6 py-4">
-                            345
-                        </td>
-                        <td class="px-6 py-4">
-                            4567
-                        </td>
-                    </tr>
-                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                        <th scope="row"
-                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            嬌生+人工水晶體
-                        </th>
-                        <td class="px-6 py-4">
-                            345
-                        </td>
-                        <td class="px-6 py-4">
-                            4567
-                        </td>
-                    </tr>
-                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                        <th scope="row"
-                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            人工水晶體+全焦段
-                        </th>
-                        <td class="px-6 py-4">
-                            345
-                        </td>
-                        <td class="px-6 py-4">
-                            4567
-                        </td>
-                    </tr>
-                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                        <th scope="row"
-                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            人工水晶體+短延焦
-                        </th>
-                        <td class="px-6 py-4">
-                            345
-                        </td>
-                        <td class="px-6 py-4">
-                            4567
-                        </td>
-                    </tr>
-                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                        <th scope="row"
-                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            愛爾康+人工水晶體
-                        </th>
-                        <td class="px-6 py-4">
-                            345
-                        </td>
-                        <td class="px-6 py-4">
-                            4567
-                        </td>
-                    </tr>
-                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                        <th scope="row"
-                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            人工水晶體+愛的視延
-                        </th>
-                        <td class="px-6 py-4">
-                            345
-                        </td>
-                        <td class="px-6 py-4">
-                            4567
-                        </td>
-                    </tr>
-                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                        <th scope="row"
-                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            人工水晶體+非繞射型
-                        </th>
-                        <td class="px-6 py-4">
-                            345
-                        </td>
-                        <td class="px-6 py-4">
-                            4567
-                        </td>
-                    </tr>
-                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                        <th scope="row"
-                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            博士倫+人工水晶體
-                        </th>
-                        <td class="px-6 py-4">
-                            345
-                        </td>
-                        <td class="px-6 py-4">
-                            4567
+                            228
                         </td>
                     </tr>
                     </tbody>
@@ -313,7 +121,7 @@
         <div class="border-2 border-dashed rounded-lg border-gray-300 dark:border-gray-600 h-32 md:h-64">
             <div class="relative overflow-x-auto overflow-y-auto max-h-64 shadow-md sm:rounded-lg">
                 <div class="inline-flex p-2">
-                    <div class="text-lg font-semibold text-gray-900 bg-white">近視雷射關鍵字聲量總數：89885</div>
+                    <div class="text-lg font-semibold text-gray-900 bg-white">近視雷射關鍵字聲量總數：12,992</div>
                     <button id="dropdownDefaultButton2" data-dropdown-toggle="dropdown-keyword2"
                             class="ml-6 text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-small rounded-lg text-sm px-3 py-1 text-center inline-flex items-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
                             type="button">Facebook
@@ -351,13 +159,13 @@
                     <thead class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
                     <tr>
                         <th scope="col" class="px-6 py-3">
-                            關鍵字
+                            貼文
                         </th>
                         <th scope="col" class="px-6 py-3">
-                            總文章數
+                            發文者
                         </th>
                         <th scope="col" class="px-6 py-3">
-                            總聲量
+                            聲量
                         </th>
                     </tr>
                     </thead>
@@ -365,181 +173,61 @@
                     <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
                         <th scope="row"
                             class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            LASIK
+                            黃上晏Rubis is..
                         </th>
                         <td class="px-6 py-4">
-                            234
+                            黃上..
                         </td>
                         <td class="px-6 py-4">
-                            7653
+                            426
                         </td>
                     </tr>
                     <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
                         <th scope="row"
                             class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            SMILE
+                            終於還是到了這一..
                         </th>
+                        <td class="px-6 py-4">
+                            蘭萱..
+                        </td>
                         <td class="px-6 py-4">
                             345
                         </td>
+                    </tr>
+                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
+                        <th scope="row"
+                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
+                            #什麼這也20幾年..
+                        </th>
                         <td class="px-6 py-4">
-                            6774
+                            爆米..
+                        </td>
+                        <td class="px-6 py-4">
+                            321
                         </td>
                     </tr>
                     <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
                         <th scope="row"
                             class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            SMILE+雷射
+                            短今Sammie..
                         </th>
                         <td class="px-6 py-4">
-                            23
+                            短今..
                         </td>
                         <td class="px-6 py-4">
-                            654
+                            276
                         </td>
                     </tr>
                     <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
                         <th scope="row"
                             class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            SMILE Pro
+                            INES 王以甯...
                         </th>
                         <td class="px-6 py-4">
-                            23
+                            IN..
                         </td>
                         <td class="px-6 py-4">
-                            654
-                        </td>
-                    </tr>
-                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                        <th scope="row"
-                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            STPRK
-                        </th>
-                        <td class="px-6 py-4">
-                            23
-                        </td>
-                        <td class="px-6 py-4">
-                            654
-                        </td>
-                    </tr>
-                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                        <th scope="row"
-                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            Smart transPRK
-                        </th>
-                        <td class="px-6 py-4">
-                            23
-                        </td>
-                        <td class="px-6 py-4">
-                            654
-                        </td>
-                    </tr>
-                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                        <th scope="row"
-                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            德國微創
-                        </th>
-                        <td class="px-6 py-4">
-                            23
-                        </td>
-                        <td class="px-6 py-4">
-                            654
-                        </td>
-                    </tr>
-                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                        <th scope="row"
-                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            眼睛雷射
-                        </th>
-                        <td class="px-6 py-4">
-                            23
-                        </td>
-                        <td class="px-6 py-4">
-                            654
-                        </td>
-                    </tr>
-                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                        <th scope="row"
-                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            近視雷射
-                        </th>
-                        <td class="px-6 py-4">
-                            23
-                        </td>
-                        <td class="px-6 py-4">
-                            654
-                        </td>
-                    </tr>
-                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                        <th scope="row"
-                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            乾眼+雷射
-                        </th>
-                        <td class="px-6 py-4">
-                            23
-                        </td>
-                        <td class="px-6 py-4">
-                            654
-                        </td>
-                    </tr>
-                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                        <th scope="row"
-                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            眩光+雷射
-                        </th>
-                        <td class="px-6 py-4">
-                            23
-                        </td>
-                        <td class="px-6 py-4">
-                            654
-                        </td>
-                    </tr>
-                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                        <th scope="row"
-                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            水霧+雷射
-                        </th>
-                        <td class="px-6 py-4">
-                            23
-                        </td>
-                        <td class="px-6 py-4">
-                            654
-                        </td>
-                    </tr>
-                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                        <th scope="row"
-                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            林宥嘉+雷射
-                        </th>
-                        <td class="px-6 py-4">
-                            23
-                        </td>
-                        <td class="px-6 py-4">
-                            654
-                        </td>
-                    </tr>
-                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                        <th scope="row"
-                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            安心亞+雷射
-                        </th>
-                        <td class="px-6 py-4">
-                            23
-                        </td>
-                        <td class="px-6 py-4">
-                            654
-                        </td>
-                    </tr>
-                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                        <th scope="row"
-                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            楊謹華+雷射
-                        </th>
-                        <td class="px-6 py-4">
-                            23
-                        </td>
-                        <td class="px-6 py-4">
-                            654
+                            238
                         </td>
                     </tr>
                     </tbody>
@@ -549,7 +237,7 @@
         <div class="border-2 border-dashed rounded-lg border-gray-300 dark:border-gray-600 h-32 md:h-64">
             <div class="relative overflow-x-auto overflow-y-auto max-h-64 shadow-md sm:rounded-lg">
                 <div class="inline-flex p-2">
-                    <div class="text-lg font-semibold text-gray-900 bg-white">老花雷射關鍵字聲量總數：89885</div>
+                    <div class="text-lg font-semibold text-gray-900 bg-white">老花雷射關鍵字聲量總數：988</div>
                     <button id="dropdownDefaultButton3" data-dropdown-toggle="dropdown-keyword3"
                             class="ml-6 text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-small rounded-lg text-sm px-3 py-1 text-center inline-flex items-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
                             type="button">Facebook
@@ -587,13 +275,13 @@
                     <thead class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
                     <tr>
                         <th scope="col" class="px-6 py-3">
-                            關鍵字
+                            貼文
                         </th>
                         <th scope="col" class="px-6 py-3">
-                            總文章數
+                            發文者
                         </th>
                         <th scope="col" class="px-6 py-3">
-                            總聲量
+                            聲量
                         </th>
                     </tr>
                     </thead>
@@ -601,109 +289,61 @@
                     <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
                         <th scope="row"
                             class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            LBV
+                            #盛世美顏現在..
                         </th>
                         <td class="px-6 py-4">
-                            567
+                            三立..
                         </td>
                         <td class="px-6 py-4">
-                            2895
+                            206
                         </td>
                     </tr>
                     <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
                         <th scope="row"
                             class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            眼睛雷射
+                            年過40眼睛看..
                         </th>
                         <td class="px-6 py-4">
-                            56
+                            康健..
                         </td>
                         <td class="px-6 py-4">
-                            8643
+                            23
                         </td>
                     </tr>
                     <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
                         <th scope="row"
                             class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            老花雷射
+                            澄清眼科台北旗..
                         </th>
                         <td class="px-6 py-4">
-                            89
+                            澄清..
                         </td>
                         <td class="px-6 py-4">
-                            490
+                            22
                         </td>
                     </tr>
                     <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
                         <th scope="row"
                             class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            乾眼+雷射
+                            謝文憲的極憲人..
                         </th>
                         <td class="px-6 py-4">
-                            89
+                            謝文..
                         </td>
                         <td class="px-6 py-4">
-                            490
+                            19
                         </td>
                     </tr>
                     <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
                         <th scope="row"
                             class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            眩光+雷射
+                            40歲以後，老..
                         </th>
                         <td class="px-6 py-4">
-                            89
+                            照護..
                         </td>
                         <td class="px-6 py-4">
-                            490
-                        </td>
-                    </tr>
-                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                        <th scope="row"
-                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            水霧+雷射
-                        </th>
-                        <td class="px-6 py-4">
-                            89
-                        </td>
-                        <td class="px-6 py-4">
-                            490
-                        </td>
-                    </tr>
-                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                        <th scope="row"
-                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            天心+雷射
-                        </th>
-                        <td class="px-6 py-4">
-                            89
-                        </td>
-                        <td class="px-6 py-4">
-                            490
-                        </td>
-                    </tr>
-                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                        <th scope="row"
-                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            謝祖武+雷射
-                        </th>
-                        <td class="px-6 py-4">
-                            89
-                        </td>
-                        <td class="px-6 py-4">
-                            490
-                        </td>
-                    </tr>
-                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                        <th scope="row"
-                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            周蕙+雷射
-                        </th>
-                        <td class="px-6 py-4">
-                            89
-                        </td>
-                        <td class="px-6 py-4">
-                            490
+                            14
                         </td>
                     </tr>
                     </tbody>
@@ -782,7 +422,7 @@
                                     熱度
                                 </th>
                                 <th scope="col" class="px-6 py-3">
-                                    平台
+                                    發文者
                                 </th>
                             </tr>
                             </thead>
@@ -790,61 +430,37 @@
                             <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
                                 <th scope="row"
                                     class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                                    #分享 台北O見大X眼科近視雷射諮詢分享
+                                    蔡司讓影像感測..
                                 </th>
                                 <td class="px-6 py-4">
-                                    11
+                                    1829
                                 </td>
                                 <td class="px-6 py-4">
-                                    Dcard
+                                    Tech..
                                 </td>
                             </tr>
                             <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
                                 <th scope="row"
                                     class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                                    請益雷射眼睛手術 smile smile pro 以及比較少
+                                    VivoX10..
                                 </th>
                                 <td class="px-6 py-4">
-                                    4
+                                    1394
                                 </td>
                                 <td class="px-6 py-4">
-                                    Mobile01 | 健康與養生
+                                    傑昇..
                                 </td>
                             </tr>
                             <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
                                 <th scope="row"
                                     class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                                    [心得] 中科慧雯大O眼科 smile雷射分享
+                                    【展望新年🌟..
                                 </th>
                                 <td class="px-6 py-4">
-                                    1
+                                    757
                                 </td>
                                 <td class="px-6 py-4">
-                                    PTT | Laser_eye
-                                </td>
-                            </tr>
-                            <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                                <th scope="row"
-                                    class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                                    [心得] 中科慧雯大O眼科 smile雷射分享
-                                </th>
-                                <td class="px-6 py-4">
-                                    1
-                                </td>
-                                <td class="px-6 py-4">
-                                    PTT | Laser_eye
-                                </td>
-                            </tr>
-                            <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                                <th scope="row"
-                                    class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                                    [心得] 中科慧雯大O眼科 smile雷射分享
-                                </th>
-                                <td class="px-6 py-4">
-                                    1
-                                </td>
-                                <td class="px-6 py-4">
-                                    PTT | Laser_eye
+                                    ZE..
                                 </td>
                             </tr>
                             </tbody>
@@ -866,7 +482,7 @@
                                     熱度
                                 </th>
                                 <th scope="col" class="px-6 py-3">
-                                    平台
+                                    發文者
                                 </th>
                             </tr>
                             </thead>
@@ -874,37 +490,13 @@
                             <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
                                 <th scope="row"
                                     class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                                    #分享 看清楚這個世界
+
                                 </th>
                                 <td class="px-6 py-4">
-                                    12
+                                    (無搜尋結果)
                                 </td>
                                 <td class="px-6 py-4">
-                                    Dcard | facelift
-                                </td>
-                            </tr>
-                            <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                                <th scope="row"
-                                    class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                                    #國外 韓國全飛秒雷射分享
-                                </th>
-                                <td class="px-6 py-4">
-                                    12
-                                </td>
-                                <td class="px-6 py-4">
-                                    Dcard | travel
-                                </td>
-                            </tr>
-                            <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                                <th scope="row"
-                                    class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                                    Re: [心得] 台南諾貝爾/大學眼科Smile 近視雷射
-                                </th>
-                                <td class="px-6 py-4">
-                                    2
-                                </td>
-                                <td class="px-6 py-4">
-                                    PTT | Laser_eye
+
                                 </td>
                             </tr>
                             </tbody>
@@ -931,7 +523,7 @@
             <div class="w-full max-h-48 bg-white rounded-lg dark:bg-gray-800 p-4 md:p-6">
                 <div class="flex justify-between">
                     <div>
-                        <h5 class="leading-none text-3xl font-bold text-gray-900 dark:text-white pb-2">32.4k</h5>
+                        <h5 class="leading-none text-3xl font-bold text-gray-900 dark:text-white pb-2">28,739</h5>
                         <p class="text-base font-normal text-gray-500 dark:text-gray-400">卡爾蔡司品牌總聲量</p>
                     </div>
                     <div
@@ -955,53 +547,21 @@
                             data-dropdown-placement="bottom"
                             class="text-sm font-medium text-gray-500 dark:text-gray-400 hover:text-gray-900 text-center inline-flex items-center dark:hover:text-white"
                             type="button">
-                            Last 7 days
-                            <svg class="w-2.5 m-2.5 ms-1.5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
-                                 fill="none" viewBox="0 0 10 6">
-                                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
-                                      stroke-width="2" d="m1 1 4 4 4-4"/>
-                            </svg>
+                            Last 90 days
+                            {{--                            <svg class="w-2.5 m-2.5 ms-1.5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"--}}
+                            {{--                                 fill="none" viewBox="0 0 10 6">--}}
+                            {{--                                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"--}}
+                            {{--                                      stroke-width="2" d="m1 1 4 4 4-4"/>--}}
+                            {{--                            </svg>--}}
                         </button>
                         <!-- Dropdown menu -->
                         <div id="lastDaysdropdown"
                              class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
                             <ul class="py-2 text-sm text-gray-700 dark:text-gray-200"
                                 aria-labelledby="dropdownDefaultButton">
-                                <li>
-                                    <a href="#"
-                                       class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Yesterday</a>
-                                </li>
-                                <li>
-                                    <a href="#"
-                                       class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Today</a>
-                                </li>
-                                <li>
-                                    <a href="#"
-                                       class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Last
-                                        7 days</a>
-                                </li>
-                                <li>
-                                    <a href="#"
-                                       class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Last
-                                        30 days</a>
-                                </li>
-                                <li>
-                                    <a href="#"
-                                       class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Last
-                                        90 days</a>
-                                </li>
+
                             </ul>
                         </div>
-                        <a
-                            href="#"
-                            class="uppercase text-sm font-semibold inline-flex items-center rounded-lg text-blue-600 hover:text-blue-700 dark:hover:text-blue-500  hover:bg-gray-100 dark:hover:bg-gray-700 dark:focus:ring-gray-700 dark:border-gray-700 px-3 py-2">
-                            Users Report
-                            <svg class="w-2.5 h-2.5 ms-1.5 rtl:rotate-180" aria-hidden="true"
-                                 xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 6 10">
-                                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
-                                      stroke-width="2" d="m1 9 4-4-4-4"/>
-                            </svg>
-                        </a>
                     </div>
                 </div>
             </div>
@@ -1013,47 +573,12 @@
             <div class="relative overflow-x-auto overflow-y-auto max-h-64 shadow-md sm:rounded-lg">
                 <div class="inline-flex p-2">
                     <div class="text-lg font-semibold text-gray-900 bg-white">眼科診所熱度</div>
-                    <button id="dropdownDefaultButton5" data-dropdown-toggle="dropdown-keyword5"
-                            class="ml-6 text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-small rounded-lg text-sm px-3 py-1 text-center inline-flex items-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
-                            type="button">Facebook
-                        <svg class="w-2.5 h-2.5 ms-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
-                             fill="none" viewBox="0 0 10 6">
-                            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
-                                  stroke-width="2" d="m1 1 4 4 4-4"/>
-                        </svg>
-                    </button>
-                    <!-- Dropdown menu -->
-                    <div id="dropdown-keyword5"
-                         class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
-                        <ul class="py-2 text-sm text-gray-700 dark:text-gray-200"
-                            aria-labelledby="dropdownDefaultButton5>
-                                <li>
-                                    <a href="#"
-                        class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Instagram</a>
-                        </li>
-                        <li>
-                            <a href="#"
-                               class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Youtube</a>
-                        </li>
-                        <li>
-                            <a href="#"
-                               class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">論壇</a>
-                        </li>
-                        <li>
-                            <a href="#"
-                               class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">媒體</a>
-                        </li>
-                        </ul>
-                    </div>
                 </div>
                 <table class="w-full text-sm text-left rtl:text-right text-gray-500 dark:text-gray-400 h-32">
                     <thead class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
                     <tr>
                         <th scope="col" class="px-6 py-3">
                             診所名稱
-                        </th>
-                        <th scope="col" class="px-6 py-3">
-                            總文章數
                         </th>
                         <th scope="col" class="px-6 py-3">
                             總聲量
@@ -1067,34 +592,7 @@
                             大學眼科
                         </th>
                         <td class="px-6 py-4">
-                            489
-                        </td>
-                        <td class="px-6 py-4">
-                            9823
-                        </td>
-                    </tr>
-                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                        <th scope="row"
-                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            諾貝爾眼科
-                        </th>
-                        <td class="px-6 py-4">
-                            321
-                        </td>
-                        <td class="px-6 py-4">
-                            4532
-                        </td>
-                    </tr>
-                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                        <th scope="row"
-                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            遠見眼科
-                        </th>
-                        <td class="px-6 py-4">
-                            124
-                        </td>
-                        <td class="px-6 py-4">
-                            432
+                            3026
                         </td>
                     </tr>
                     <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
@@ -1103,10 +601,25 @@
                             澄清眼科
                         </th>
                         <td class="px-6 py-4">
-                            14
+                            1312
                         </td>
+                    </tr>
+                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
+                        <th scope="row"
+                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
+                            諾貝爾眼科
+                        </th>
                         <td class="px-6 py-4">
-                            56
+                            1010
+                        </td>
+                    </tr>
+                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
+                        <th scope="row"
+                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
+                            遠見眼科
+                        </th>
+                        <td class="px-6 py-4">
+                            522
                         </td>
                     </tr>
                     <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
@@ -1115,10 +628,7 @@
                             濰視眼科
                         </th>
                         <td class="px-6 py-4">
-                            14
-                        </td>
-                        <td class="px-6 py-4">
-                            56
+                            487
                         </td>
                     </tr>
                     <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
@@ -1127,22 +637,7 @@
                             白佳欣眼科
                         </th>
                         <td class="px-6 py-4">
-                            14
-                        </td>
-                        <td class="px-6 py-4">
-                            56
-                        </td>
-                    </tr>
-                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                        <th scope="row"
-                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            台全眼科
-                        </th>
-                        <td class="px-6 py-4">
-                            14
-                        </td>
-                        <td class="px-6 py-4">
-                            56
+                            78
                         </td>
                     </tr>
                     </tbody>
@@ -1153,47 +648,12 @@
             <div class="relative overflow-x-auto overflow-y-auto max-h-64 shadow-md sm:rounded-lg">
                 <div class="inline-flex p-2">
                     <div class="text-lg font-semibold text-gray-900 bg-white">醫師熱度</div>
-                    <button id="dropdownDefaultButton2" data-dropdown-toggle="dropdown-keyword6"
-                            class="ml-6 text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-small rounded-lg text-sm px-3 py-1 text-center inline-flex items-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
-                            type="button">Facebook
-                        <svg class="w-2.5 h-2.5 ms-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
-                             fill="none" viewBox="0 0 10 6">
-                            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
-                                  stroke-width="2" d="m1 1 4 4 4-4"/>
-                        </svg>
-                    </button>
-                    <!-- Dropdown menu -->
-                    <div id="dropdown-keyword6"
-                         class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
-                        <ul class="py-2 text-sm text-gray-700 dark:text-gray-200"
-                            aria-labelledby="dropdownDefaultButton2">
-                            <li>
-                                <a href="#"
-                                   class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Instagram</a>
-                            </li>
-                            <li>
-                                <a href="#"
-                                   class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Youtube</a>
-                            </li>
-                            <li>
-                                <a href="#"
-                                   class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">論壇</a>
-                            </li>
-                            <li>
-                                <a href="#"
-                                   class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">媒體</a>
-                            </li>
-                        </ul>
-                    </div>
                 </div>
                 <table class="w-full text-sm text-left rtl:text-right text-gray-500 dark:text-gray-400 h-32">
                     <thead class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
                     <tr>
                         <th scope="col" class="px-6 py-3">
-                            姓名
-                        </th>
-                        <th scope="col" class="px-6 py-3">
-                            總文章數
+                            醫師姓名
                         </th>
                         <th scope="col" class="px-6 py-3">
                             總聲量
@@ -1204,13 +664,10 @@
                     <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
                         <th scope="row"
                             class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            林丕容
+                            張朝凱
                         </th>
                         <td class="px-6 py-4">
-                            54
-                        </td>
-                        <td class="px-6 py-4">
-                            99
+                            494
                         </td>
                     </tr>
                     <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
@@ -1219,34 +676,7 @@
                             吳孟憲
                         </th>
                         <td class="px-6 py-4">
-                            23
-                        </td>
-                        <td class="px-6 py-4">
-                            67
-                        </td>
-                    </tr>
-                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                        <th scope="row"
-                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            張朝凱
-                        </th>
-                        <td class="px-6 py-4">
-                            12
-                        </td>
-                        <td class="px-6 py-4">
-                            23
-                        </td>
-                    </tr>
-                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                        <th scope="row"
-                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            白佳欣
-                        </th>
-                        <td class="px-6 py-4">
-                            12
-                        </td>
-                        <td class="px-6 py-4">
-                            23
+                            376
                         </td>
                     </tr>
                     <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
@@ -1255,10 +685,52 @@
                             張聰麒
                         </th>
                         <td class="px-6 py-4">
-                            12
+                            357
                         </td>
+                    </tr>
+                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
+                        <th scope="row"
+                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
+                            何宜儒
+                        </th>
                         <td class="px-6 py-4">
-                            23
+                            145
+                        </td>
+                    </tr>
+                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
+                        <th scope="row"
+                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
+                            葉威毅
+                        </th>
+                        <td class="px-6 py-4">
+                            115
+                        </td>
+                    </tr>
+                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
+                        <th scope="row"
+                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
+                            白佳欣
+                        </th>
+                        <td class="px-6 py-4">
+                            83
+                        </td>
+                    </tr>
+                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
+                        <th scope="row"
+                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
+                            林丕容
+                        </th>
+                        <td class="px-6 py-4">
+                            31
+                        </td>
+                    </tr>
+                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
+                        <th scope="row"
+                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
+                            林鴻源
+                        </th>
+                        <td class="px-6 py-4">
+                            24
                         </td>
                     </tr>
                     </tbody>
@@ -1269,50 +741,21 @@
             <div class="relative overflow-x-auto overflow-y-auto max-h-64 shadow-md sm:rounded-lg">
                 <div class="inline-flex p-2">
                     <div class="text-lg font-semibold text-gray-900 bg-white">術後問題關鍵字</div>
-                    <button id="dropdownDefaultButton3" data-dropdown-toggle="dropdown-keyword7"
-                            class="ml-6 text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-small rounded-lg text-sm px-3 py-1 text-center inline-flex items-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
-                            type="button">Facebook
-                        <svg class="w-2.5 h-2.5 ms-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
-                             fill="none" viewBox="0 0 10 6">
-                            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
-                                  stroke-width="2" d="m1 1 4 4 4-4"/>
-                        </svg>
-                    </button>
-                    <!-- Dropdown menu -->
-                    <div id="dropdown-keyword7"
-                         class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
-                        <ul class="py-2 text-sm text-gray-700 dark:text-gray-200"
-                            aria-labelledby="dropdownDefaultButton3">
-                            <li>
-                                <a href="#"
-                                   class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Instagram</a>
-                            </li>
-                            <li>
-                                <a href="#"
-                                   class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Youtube</a>
-                            </li>
-                            <li>
-                                <a href="#"
-                                   class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">論壇</a>
-                            </li>
-                            <li>
-                                <a href="#"
-                                   class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">媒體</a>
-                            </li>
-                        </ul>
-                    </div>
                 </div>
                 <table class="w-full text-sm text-left rtl:text-right text-gray-500 dark:text-gray-400 h-32">
                     <thead class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
                     <tr>
                         <th scope="col" class="px-6 py-3">
-                            關鍵字
+                            症狀
+                        </th>
+                        <th scope="col" class="px-6 py-3">
+                            負向文章數
                         </th>
                         <th scope="col" class="px-6 py-3">
                             總文章數
                         </th>
                         <th scope="col" class="px-6 py-3">
-                            總聲量
+                            負向文章佔比
                         </th>
                     </tr>
                     </thead>
@@ -1320,63 +763,61 @@
                     <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
                         <th scope="row"
                             class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            乾眼
-                        </th>
-                        <td class="px-6 py-4">
-                            431
-                        </td>
-                        <td class="px-6 py-4">
-                            2464
-                        </td>
-                    </tr>
-                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                        <th scope="row"
-                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            水霧
-                        </th>
-                        <td class="px-6 py-4">
-                            245
-                        </td>
-                        <td class="px-6 py-4">
-                            4562
-                        </td>
-                    </tr>
-                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                        <th scope="row"
-                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                            淚液
-                        </th>
-                        <td class="px-6 py-4">
-                            43
-                        </td>
-                        <td class="px-6 py-4">
-                            654
-                        </td>
-                    </tr>
-                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                        <th scope="row"
-                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-
                             角膜
                         </th>
                         <td class="px-6 py-4">
-                            43
+                            13
                         </td>
                         <td class="px-6 py-4">
-                            654
+                            958
+                        </td>
+                        <td class="px-6 py-4">
+                            0.014
                         </td>
                     </tr>
                     <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
                         <th scope="row"
                             class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-
+                            乾眼
+                        </th>
+                        <td class="px-6 py-4">
+                            8
+                        </td>
+                        <td class="px-6 py-4">
+                            513
+                        </td>
+                        <td class="px-6 py-4">
+                            0.016
+                        </td>
+                    </tr>
+                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
+                        <th scope="row"
+                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
+                            水霧感
+                        </th>
+                        <td class="px-6 py-4">
+                            4
+                        </td>
+                        <td class="px-6 py-4">
+                            357
+                        </td>
+                        <td class="px-6 py-4">
+                            0.011
+                        </td>
+                    </tr>
+                    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
+                        <th scope="row"
+                            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
                             眩光
                         </th>
                         <td class="px-6 py-4">
-                            43
+                            2
                         </td>
                         <td class="px-6 py-4">
-                            654
+                            156
+                        </td>
+                        <td class="px-6 py-4">
+                            0.013
                         </td>
                     </tr>
                     </tbody>
